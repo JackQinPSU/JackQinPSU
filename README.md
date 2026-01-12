@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jack 👋
 
-<!--
-**JackQinPSU/JackQinPSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science @ Penn State | Interested in Backend Systems, Cloud Computing, and HPC.
 
-Here are some ideas to get you started:
+🚀 **Currently Working On**
+- Study Longer: a focus tracking & analytics app (Deployed: https://study-longer.vercel.app/)
+- Applying for Summer Internships (SWE, Platform Engineering, DevOps)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack**
+- **Languages:** Python, JavaScript, TypeScript, C++, SQL
+- **Frontend:** React, Next.js, TailwindCSS
+- **Backend:** Node.js, Express, Prisma, PostgreSQL
+- **Tools:** Docker, Git, Render, Vercel, Linux
+
+📫 **Contact**
+- Email: qishuqin26@gmail.com
+- LinkedIn: www.linkedin.com/in/qishu-qin-63431b2a5
+
+⚡ **Fun Fact**
+> I optimize both code and time — currently building tools to track productivity.
+
+---
+
+### 🌐 Checkout my latest project:
+
+📌 **Study Longer — Track focus. See progress.**
+🔗 https://study-longer.vercel.app/
+
+---
+
+Thanks for stopping by! ⭐
+
