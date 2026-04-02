@@ -10,7 +10,7 @@
 - **Languages:** Python, JavaScript, TypeScript, C++, SQL
 - **Frontend:** React, Next.js, TailwindCSS
 - **Backend:** Node.js, Express, Prisma, PostgreSQL
-- **Tools:** Docker, Git, Render, Vercel, Linux
+- **Tools:** Docker, Git, Render, Vercel, Linux, Docker, CI/CD
 
 📫 **Contact**
 - Email: qishuqin26@gmail.com
